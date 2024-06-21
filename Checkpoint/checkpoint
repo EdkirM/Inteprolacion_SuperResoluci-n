@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/titan2way/Desktop/SRnet/SRNET/source/../Checkpoint/model_checker"
-all_model_checkpoint_paths: "/home/titan2way/Desktop/SRnet/SRNET/source/../Checkpoint/model_checker"
+model_checkpoint_path: "d:\\Descargas 2\\Super-Resolution_CNN-master\\Super-Resolution_CNN-master\\source/../Checkpoint/model_checker"
+all_model_checkpoint_paths: "d:\\Descargas 2\\Super-Resolution_CNN-master\\Super-Resolution_CNN-master\\source/../Checkpoint/model_checker"
